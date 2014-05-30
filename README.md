@@ -1,4 +1,4 @@
-#Chota, shorten url's
+#Chota
 Chota is an awesome url shortener written in `Flask`, it is simple yet powerfull. Fork this repo and play around with it.
 
 <a href="http://imgur.com/KEIT77n"><img src="http://i.imgur.com/KEIT77n.png" title="Hosted by imgur.com" /></a>
@@ -12,9 +12,9 @@ Run the `runserver.py` file and boom you are up and running, `python runserver.p
 
 ###Contributing:
  - Implement a database to store url's
- - improve loading speed
+ - Improve loading speed
  - Make the website pretty
  - Improve the api
 
 ###License:
-chota is distributed under MIT license, do what ever you want with it :)
+Chota is distributed under MIT license, do what ever you want with it :)
