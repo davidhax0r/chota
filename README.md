@@ -1,5 +1,4 @@
 ##Chota, shorten url's
-=====================
 Chota is an awesome url shortener written in `Flask`, it is simple yet powerfull. Fork this repo and play around with it.
 
 ###Installation:
